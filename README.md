@@ -20,7 +20,7 @@ This repository includes a selection of key works that have contributed to the g
   [arXiv:2503.22708](https://arxiv.org/abs/2503.22708)
 
 - **AIGS: AI-Powered Falsification**  
-  [arXiv:2411.11910](https://arxiv.org/pdf/2411.11910)
+  [arXiv:2411.11910](https://arxiv.org/abs/2411.11910)
 
 - **Generative AI for Scientific Discovery**  
   [arXiv:2412.11427v2](https://arxiv.org/html/2412.11427v2)
