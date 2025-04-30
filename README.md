@@ -16,19 +16,19 @@ The collection is intended to serve as a resource for researchers, students, and
 
 This repository includes a selection of key works that have contributed to the growing intersection of artificial intelligence and scientific discovery.
 
-- **CodeScientist: Semi-Automated Discovery**  
+- **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation**  
   [arXiv:2503.22708](https://arxiv.org/abs/2503.22708)
 
-- **AIGS: AI-Powered Falsification**  
+- **AIGS: Generating Science from AI-Powered Automated Falsification**  
   [arXiv:2411.11910](https://arxiv.org/abs/2411.11910)
 
-- **Generative AI for Scientific Discovery**  
-  [arXiv:2412.11427v2](https://arxiv.org/html/2412.11427v2)
+- **Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges**  
+  [arXiv:2412.11427v2](https://arxiv.org/abs/2412.11427)
 
 - **Towards an AI Co-Scientist**  
   [arXiv:2502.18864](https://arxiv.org/abs/2502.18864)
 
-- **DISCOVERYWORLD: Virtual Research Agents**  
+- **DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents**  
   [arXiv:2406.06769](https://arxiv.org/abs/2406.06769)
 
 - **Symbolic Regression with a Learned Concept Library**  
