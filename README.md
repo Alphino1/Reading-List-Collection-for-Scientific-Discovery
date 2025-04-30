@@ -1,49 +1,79 @@
-# **Reading List Collection for Automated Scientific Discovery**
+# **🚀 Reading List Collection for Automated Scientific Discovery**
 
-> *“Empowering machines to ask, test, and discover — one paper at a time.”*
-
----
-
-## 🔬✨ Research Collection on Autonomous AI for Scientific Discovery
-
-### 🌟 Why This Collection Matters
-
-Science thrives on curiosity, but the pipeline from idea to experiment is often slow.  
-This living collection is your gateway to the latest breakthroughs in:
-
-1. ⚗️ **Creative Hypothesis Generation**  
-2. 🤖 **Automated Experimentation**  
-3. 📊 **Intelligent Data Analysis**  
-4. 🧠 **Continuous Self-Improvement**  
-
-> _No artificial caps: this list expands as the frontier shifts._
+> *"Exploring the frontiers of science through artificial intelligence."*
 
 ---
 
-## 🔍 Core Literature & References
+## 🌌 Purpose
 
-| Title | Link |
-|:------|:-----|
-| **Generative AI for Scientific Discovery** | [arXiv:2412.11427v2](https://arxiv.org/html/2412.11427v2) |
-| **Towards an AI Co-Scientist – Google AI** | [arXiv:2502.18864](https://arxiv.org/abs/2502.18864) |
-| **DISCOVERYWORLD: Virtual Research Agents** | [arXiv:2406.06769](https://arxiv.org/abs/2406.06769) |
-| **Accelerating Scientific Discovery with Generative Knowledge Extraction** | [alphaXiv:2403.11996](https://www.alphaxiv.org/overview/2403.11996) |
-| **CodeScientist: Semi-Automated Discovery** | [arXiv:2503.22708](https://arxiv.org/abs/2503.22708) |
-| **The AI Scientist: Automated Discovery** | [arXiv:2408.06292](https://arxiv.org/abs/2408.06292) |
-| **AIGS: AI-Powered Falsification** | [arXiv:2411.11910](https://arxiv.org/pdf/2411.11910) |
-| **MLR-Copilot: Autonomous ML Research** | [arXiv:2408.14033](https://arxiv.org/abs/2408.14033) |
-| **LLM-Driven Research Papers** | [arXiv:2404.17605](https://arxiv.org/abs/2404.17605) |
-| **Virtual Lab AI Scientists** | [Nature (2024)](https://www.nature.com/articles/d41586-024-01684-3) |
-| **PhD-Level AI Agents: AI-Researcher** | [GitHub Repo](https://github.com/HKUDS/AI-Researcher) |
-| **Agent Laboratory: LLM Agents as Research Assistants** | [arXiv:2501.04227](https://arxiv.org/abs/2501.04227) |
-| **Symbolic Regression with a Learned Concept Library** | [arXiv:2409.09359](https://arxiv.org/abs/2409.09359) |
+This repository is a personal archive of research papers, and upcoming resources dedicated to the field of **AI driven scientific discovery**. It reflects my ongoing effort to explore the transformative potential of artificial intelligence in enabling machines to ask questions, test hypotheses, and contribute to the advancement of knowledge.
+
+The collection is intended to serve as a resource for researchers, students, and enthusiasts who share a passion for understanding how Artificial Intelligence can augment the process of scientific inquiry.
 
 ---
 
+## 📜 Featured Works
+
+This repository includes a selection of key works that have contributed to the growing intersection of artificial intelligence and scientific discovery.
+
+- **CodeScientist: Semi-Automated Discovery**  
+  [arXiv:2503.22708](https://arxiv.org/abs/2503.22708)
+
+- **AIGS: AI-Powered Falsification**  
+  [arXiv:2411.11910](https://arxiv.org/pdf/2411.11910)
+
+- **Generative AI for Scientific Discovery**  
+  [arXiv:2412.11427v2](https://arxiv.org/html/2412.11427v2)
+
+- **Towards an AI Co-Scientist**  
+  [arXiv:2502.18864](https://arxiv.org/abs/2502.18864)
+
+- **DISCOVERYWORLD: Virtual Research Agents**  
+  [arXiv:2406.06769](https://arxiv.org/abs/2406.06769)
+
+- **Symbolic Regression with a Learned Concept Library**  
+  [arXiv:2409.09359](https://arxiv.org/abs/2409.09359)
+
+> *This list will expand over time as new advancements are made and shared by the scientific community.*
 
 
 ---
 
-## 🤝 Let’s Build the Future
+## 🛠️ Contribute
 
+Although this is an ongoing initiative, contributions are welcome from anyone who shares an interest in advancing AI's role in science.
 
+1. **Suggest Research Papers**:  
+   If you know of relevant works that should be included in this collection, feel free to open a [Pull Request](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/pulls) or [Issue](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/issues).
+
+2. **Highlight Gaps**:  
+   If you notice any underexplored areas or missing resources, please share your thoughts to make this repository more comprehensive.
+
+This ongoing initiative aims to continuously grow and evolve, and your contributions will help shape its future.
+
+---
+
+## 🌐 Related Resources
+
+For those looking to explore beyond this repository, here are some additional resources:
+- Coming soon, stay tuned.
+
+---
+
+## 📜 Acknowledgment and Ethics
+
+This repository is inspired by the collective contributions of researchers worldwide. Each work included here represents the effort and dedication of individuals and teams who have generously shared their findings for the benefit of the broader community.
+
+I am committed to maintaining the integrity of this resource and ensuring that it contributes positively to the advancement of science. While Artificial Intelligence offers incredible potential, I recognize the ethical responsibilities involved in its application and encourage all contributors and users to approach this work with care and thoughtfulness.
+
+---
+
+## 📣 Join the Journey
+
+Although this is an ongoing initiative, evolving to reflect the latest advancements and insights in AI driven scientific discovery.
+
+🌟 **Follow this repository for updates.**  
+🌟 **Collaborate to expand and improve this archive.**  
+🌟 **Explore the possibilities at the intersection of Artificial Intelligence and Science.**
+
+---
