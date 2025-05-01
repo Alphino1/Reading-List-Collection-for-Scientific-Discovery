@@ -47,7 +47,7 @@ Although this is an ongoing initiative, contributions are welcome from anyone wh
    If you know of relevant works that should be included in this collection, feel free to open a [Pull Request](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/pulls) or [Issue](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/issues).
 
 2. **Highlight Gaps**:  
-   If you notice any underexplored areas or missing resources, please share your thoughts to make this repository more comprehensive.
+   If you notice any underexplored areas or missing resources,etc please share your thoughts to make this repository more comprehensive.
 
 This ongoing initiative aims to continuously grow and evolve, and your contributions will help shape its future.
 
