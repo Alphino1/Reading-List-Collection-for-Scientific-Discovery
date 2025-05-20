@@ -37,6 +37,9 @@ This repository includes a selection of key works that have contributed to the g
 - **OpenTensor: Reproducing Faster Matrix Multiplication Discovering Algorithms**  
   [arXiv:2405.20748](https://arxiv.org/abs/2405.20748)
 
+  - **$\mathbf{X X^{\top}}$ Can Be Faster**  
+  [arXiv:2505.09814](https://arxiv.org/abs/2505.09814)
+
 > *This list will expand over time as new advancements are made and shared by the scientific community.*
 
 
