@@ -65,7 +65,7 @@ The collection is intended to serve as a resource for researchers, students, and
 
 ---
 
-### ▶️ Field-Specific Case Studies
+### ▶️ Field Specific Case Studies
 
 #### ⚛️ Physics
 - **DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents**  
