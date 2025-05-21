@@ -12,6 +12,27 @@ The collection is intended to serve as a resource for researchers, students, and
 
 ---
 
+## 🧭 Dynamic Table of Contents
+
+- [🌌 Purpose](#-purpose)  
+- [📂 Thematic Sections](#-thematic-sections)  
+  - [▶️ Conceptual Foundations](#conceptual-foundations)  
+  - [▶️ Core Methodologies](#core-methodologies)  
+  - [▶️ Automated Discovery Systems](#automated-discovery-systems)  
+  - [▶️ Field-Specific Case Studies](#field-specific-case-studies)  
+    - [⚛️ Physics](#-physics)  
+    - [∑ Mathematics](#-mathematics)  
+  - [▶️ Platforms & Frameworks](#platforms--frameworks)  
+  - [▶️ Metrics & Evaluation](#metrics--evaluation)  
+  - [▶️ Survey & Review Papers](#survey--review-papers)  
+  - [▶️ Miscellaneous & Outliers](#miscellaneous--outliers)  
+- [🛠️ Contribute](#-contribute)  
+- [🌐 Related Resources](#-related-resources)  
+- [📜 Acknowledgment & Ethics](#-acknowledgment--ethics)  
+- [📣 Join the Journey](#-join-the-journey)  
+
+---
+
 ## 📜 Featured Works
 
 This repository includes a selection of key works that have contributed to the growing intersection of artificial intelligence and scientific discovery.
