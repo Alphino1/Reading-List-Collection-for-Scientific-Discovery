@@ -33,33 +33,86 @@ The collection is intended to serve as a resource for researchers, students, and
 
 ---
 
-## 📜 Featured Works
+## 📂 Thematic Sections
 
-This repository includes a selection of key works that have contributed to the growing intersection of artificial intelligence and scientific discovery.
+### ▶️ Conceptual Foundations
+- **Towards an AI Co-Scientist**  
+  [arXiv:2502.18864](https://arxiv.org/abs/2502.18864)
 
+---
+
+### ▶️ Core Methodologies
+- **Symbolic Regression with a Learned Concept Library**  
+  [arXiv:2409.09359](https://arxiv.org/abs/2409.09359)
+
+- **AI Feynman 2.0: Pareto-Optimal Symbolic Regression Exploiting Graph Modularity**  
+  [arXiv:2006.10782](https://arxiv.org/abs/2006.10782)
+
+- **LLM-Feynman: Leveraging Large Language Models for Universal Scientific Formula and Theory Discovery**  
+  [arXiv:2503.06512](https://arxiv.org/abs/2503.06512)
+
+---
+
+### ▶️ Automated Discovery Systems
 - **CodeScientist: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation**  
   [arXiv:2503.22708](https://arxiv.org/abs/2503.22708)
+
+- **SynPAT: A System for Generating Synthetic Physical Theories with Data**  
+  [arXiv:2505.00878](https://arxiv.org/abs/2505.00878)
 
 - **AIGS: Generating Science from AI-Powered Automated Falsification**  
   [arXiv:2411.11910](https://arxiv.org/abs/2411.11910)
 
-- **Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges**  
-  [arXiv:2412.11427v2](https://arxiv.org/abs/2412.11427)
+---
 
-- **Towards an AI Co-Scientist**  
-  [arXiv:2502.18864](https://arxiv.org/abs/2502.18864)
+### ▶️ Field-Specific Case Studies
 
+#### ⚛️ Physics
 - **DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents**  
   [arXiv:2406.06769](https://arxiv.org/abs/2406.06769)
 
-- **Symbolic Regression with a Learned Concept Library**  
-  [arXiv:2409.09359](https://arxiv.org/abs/2409.09359)
+- **Explainable AI-Assisted Optimization for Feynman Integral Reduction**  
+  [arXiv:2502.09544](https://arxiv.org/abs/2502.09544)
 
+#### ∑ Mathematics
 - **OpenTensor: Reproducing Faster Matrix Multiplication Discovering Algorithms**  
   [arXiv:2405.20748](https://arxiv.org/abs/2405.20748)
 
+- **Inferring the Structure of Ordinary Differential Equations**  
+  [arXiv:2107.07345](https://arxiv.org/abs/2107.07345)
+
 - **$\mathbf{X X^{\top}}$ Can Be Faster**  
   [arXiv:2505.09814](https://arxiv.org/abs/2505.09814)
+
+---
+
+### ▶️ Platforms & Frameworks
+- **Genesis: Towards the Automation of Systems Biology Research**  
+  [arXiv:2408.10689](https://arxiv.org/abs/2408.10689)
+
+---
+
+### ▶️ Metrics & Evaluation
+- **Call for Action: Towards the Next Generation of Symbolic Regression Benchmark (SRBench)**  
+  [arXiv:2505.03977](https://arxiv.org/abs/2505.03977)
+
+- **LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**  
+  [arXiv:2504.10415](https://arxiv.org/abs/2504.10415)
+
+---
+
+### ▶️ Survey & Review Papers
+- **Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges**  
+  [arXiv:2412.11427v2](https://arxiv.org/abs/2412.11427v2)
+
+---
+
+### ▶️ Miscellaneous & Outliers
+- **Rich Robot Behaviors from Interacting, Trusted LLMs**  
+  [arXiv:2412.18588](https://arxiv.org/abs/2412.18588)
+
+---
+
 
 > *This list will expand over time as new advancements are made and shared by the scientific community.*
 
