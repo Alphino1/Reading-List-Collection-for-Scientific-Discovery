@@ -10,6 +10,8 @@ This repository is a personal archive of research papers, and upcoming resources
 
 The collection is intended to serve as a resource for researchers, students, and enthusiasts who share a passion for understanding how Artificial Intelligence can augment the process of scientific inquiry.
 
+My ongoing pursuit is to build a well organized public archive that supports accelerating scientific inquiry through AI.
+
 ---
 
 ## 🧭 Dynamic Table of Contents
