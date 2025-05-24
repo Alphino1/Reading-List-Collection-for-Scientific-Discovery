@@ -128,6 +128,8 @@ Although this is an ongoing initiative, contributions are welcome from anyone wh
 1. **Suggest Research Papers**:  
    If you know of relevant works that should be included in this collection, feel free to open a [Pull Request](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/pulls) or [Issue](https://github.com/Alphino1/Reading-List-Collection-for-Scientific-Discovery/issues).
 
+- **Kaggle:** Share your suggestions in the notebook comments.
+
 2. **Highlight Gaps**:  
    If you notice any underexplored areas or missing resources,etc please share your thoughts to make this repository more comprehensive.
 
@@ -150,9 +152,9 @@ I am committed to maintaining the integrity of this resource and ensuring that i
 
 ---
 
-## 📣 Join the Journey
+## 📣 Journey
 
-Although this is an ongoing initiative, evolving to reflect the latest advancements and insights in AI driven scientific discovery.
+This notebook repository is evolving as its a preliminary version: expect updates, refinements, and expansions as new research emerges, new and old papers exploration and the field advances. Everything here connects to the singular aim of accelerating scientific discovery through intelligent systems..
 
 🌟 **Follow this repository for updates.**  
 🌟 **Collaborate to expand and improve this archive.**  
