@@ -97,7 +97,7 @@ My ongoing pursuit is to build a well organized public archive that supports acc
 - **Active Learning for Conditional Inverse Design with Crystal Generation & Foundation Atomic Models**  
   [arXiv:2502.16984](https://arxiv.org/abs/2502.16984)
 
-- **Explainable Multimodal ML for Revealing Structure–Property Relationships in Carbon Nanotube Fibers**  
+- **AI-driven materials design: a mini-review**  
   [arXiv:2502.02905](https://arxiv.org/abs/2502.02905)
 
 - **Explainable Multimodal Machine Learning for Revealing Structure–Property Relationships in Carbon Nanotube Fibers**  
