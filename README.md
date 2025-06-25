@@ -23,7 +23,8 @@ My ongoing pursuit is to build a well organized public archive that supports acc
   - [▶️ Automated Discovery Systems](#automated-discovery-systems)  
   - [▶️ Field-Specific Case Studies](#field-specific-case-studies)  
     - [⚛️ Physics](#-physics)  
-    - [∑ Mathematics](#-mathematics)  
+    - [∑ Mathematics](#-mathematics)
+    - [🔬 Materials Science](#-mathematics)
   - [▶️ Platforms & Frameworks](#platforms--frameworks)  
   - [▶️ Metrics & Evaluation](#metrics--evaluation)  
   - [▶️ Survey & Review Papers](#survey--review-papers)  
@@ -85,6 +86,24 @@ My ongoing pursuit is to build a well organized public archive that supports acc
 
 - **$\mathbf{X X^{\top}}$ Can Be Faster**  
   [arXiv:2505.09814](https://arxiv.org/abs/2505.09814)
+
+  #### 🔬 Materials Science
+- **Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists**  
+  [arXiv:2506.05616](https://arxiv.org/abs/2506.05616)
+
+- **Adaptive AI Decision Interface for Autonomous Electronic Material Discovery**  
+  [arXiv:2504.13344](https://arxiv.org/abs/2504.13344)
+
+- **Active Learning for Conditional Inverse Design with Crystal Generation & Foundation Atomic Models**  
+  [arXiv:2502.16984](https://arxiv.org/abs/2502.16984)
+
+- **Explainable Multimodal ML for Revealing Structure–Property Relationships in Carbon Nanotube Fibers**  
+  [arXiv:2502.02905](https://arxiv.org/abs/2502.02905)
+
+- **Explainable Multimodal Machine Learning for Revealing Structure–Property Relationships in Carbon Nanotube Fibers**  
+  [arXiv:2502.07400](https://arxiv.org/abs/2502.07400)
+  
+  
 
 ---
 
