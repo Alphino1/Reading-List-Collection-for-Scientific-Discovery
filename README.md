@@ -14,9 +14,21 @@ My ongoing pursuit is to build a well organized public archive that supports acc
 
 ---
 
+## 📌 AI Copilot for Scientific Discovery
+
+A basic introductory version outlining the early vision and evolving strategy behind this initiative.
+
+📄 **Vision Document:**  
+[AI_Copilot_Scientific_Discovery_Roadmap.pdf](https://drive.google.com/file/d/1hDlrMoYDqpc7MoE0LC0mRGuB8QXTqe8N/view?usp=drivesdk)
+
+
+> _“This roadmap represents an evolving effort to conceptualize, design, and iterate toward autonomous AI systems capable of contributing to scientific inquiry.  
+It serves as a research vision document: open for refinement and future extension.”_
+
 ## 🧭 Dynamic Table of Contents
 
-- [🌌 Purpose](#-purpose)  
+- [🌌 Purpose](#-purpose)
+- - [📌 AI Copilot for Scientific Discovery](#-roadmap-ai-copilot-for-scientific-discovery)
 - [📂 Thematic Sections](#-thematic-sections)  
   - [▶️ Conceptual Foundations](#conceptual-foundations)  
   - [▶️ Core Methodologies](#core-methodologies)  
